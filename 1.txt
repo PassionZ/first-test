@@ -1,1 +1,3 @@
 linux insert
+  改权限：chmod +x
+  改语言：/etc/sysconfig/i18n
